@@ -23,3 +23,4 @@ just click the extension icon
 the popup page will show the type immediately
 
 ## screenshot
+![image](https://github.com/fliize/yapi2type/blob/main/img.png)
